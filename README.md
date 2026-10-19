@@ -54,7 +54,7 @@ A comprehensive data analytics and machine learning project that predicts flight
 
 ![PPT](https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_2/blob/main/PPT.png)
 
-**Data Visualization & Presentation File** : <a href=""> Click PPT Now </a>
+**Data Visualization & Presentation File** : <a href="https://github.com/Pavankumar-Bishnu/Python_Project_1/blob/main/Flight%20Price%20Prediction.pptx"> Click PPT Now </a>
 
 ## Acknowledgments
  - Dataset source : [Kaggle/Original Source]
